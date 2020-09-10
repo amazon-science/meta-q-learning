@@ -1,0 +1,10 @@
+{"ant-dir": {"n_train_tasks": 2, "n_eval_tasks": 2, "n_tasks": 2, "randomize_tasks": true, "low_gear": false, "forward_backward": true, "num_evals": 4, "num_steps_per_task": 400, "num_steps_per_eval": 400, "num_train_steps_per_itr": 4000},
+ "ant-goal": {"n_train_tasks": 150, "n_eval_tasks": 30, "n_tasks": 180, "randomize_tasks": true, "low_gear": false, "num_evals": 2, "num_steps_per_task": 1000, "num_steps_per_eval": 400, "num_train_steps_per_itr": 1000}, 
+ "cheetah-dir": {"n_train_tasks": 2, "n_eval_tasks": 2, "n_tasks": 2, "randomize_tasks": true, "num_evals": 4, "num_steps_per_task": 1000, "num_steps_per_eval": 400, "num_train_steps_per_itr": 2000}, 
+ "cheetah-vel": {"n_train_tasks": 100, "n_eval_tasks": 30, "n_tasks": 130, "randomize_tasks": true, "num_evals": 2, "num_steps_per_eval": 400, "num_steps_per_task": 400, "num_train_steps_per_itr": 2000}, 
+ "cheetah-abl": {"n_train_tasks": 100, "n_eval_tasks": 30, "n_tasks": 130, "randomize_tasks": true, "num_evals": 2, "num_steps_per_eval": 400, "num_steps_per_task": 400, "num_train_steps_per_itr": 2000}, 
+ "cheetah-rad": {"n_train_tasks": 100, "n_eval_tasks": 30, "n_tasks": 130, "randomize_tasks": true, "num_evals": 2, "num_steps_per_eval": 400, "num_steps_per_task": 400, "num_train_steps_per_itr": 2000}, 
+ "humanoid-dir": {"n_train_tasks": 100, "n_eval_tasks": 30, "n_tasks": 130, "randomize_tasks": true, "num_evals": 2, "num_steps_per_task": 400, "num_steps_per_eval": 400, "num_train_steps_per_itr": 4000}, 
+ "walker-rand-params": {"n_train_tasks": 40, "n_eval_tasks": 10, "n_tasks": 50, "randomize_tasks": true, "num_evals": 2, "num_steps_per_eval": 400, "num_steps_per_task": 400, "num_train_steps_per_itr": 2000}, 
+ "hopper-rand-params": {"n_train_tasks": 40, "n_eval_tasks": 10, "n_tasks": 50, "randomize_tasks": true}, "point-robot": {"n_train_tasks": 80, "n_eval_tasks": 20, "n_tasks": 100, "randomize_tasks": true}, 
+"sparse-point-robot": {"n_train_tasks": 80, "n_eval_tasks": 20, "n_tasks": 100, "randomize_tasks": true}}

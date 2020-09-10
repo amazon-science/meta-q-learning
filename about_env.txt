@@ -1,0 +1,6 @@
+rand_param_envs and rlkit contain enviroments and they directly copied from following repository:
+https://github.com/dennisl88/rand_param_envs/tree/4d1529d61ca0d65ed4bd9207b108d4a4662a4da0
+https://github.com/katerakelly/oyster/tree/master/rlkitr
+
+To make it easier to run this code, required codes for these enviroments are included in this repository.
+
