@@ -19,7 +19,7 @@ This repository provides the implementation of [Meta-Q-learning](https://arxiv.o
 python run_script.py --env cheetah-dir --gpu_id 0 --seed 0
 ```
 
-'env' can be humanoid-dir, ant-dir , cheetah-vel, cheetah-dir, ant-goal, and walker-rand-params. The code works on GPU and CPU machine. For the experiments in this paper, we used [p3.2xlarge](https://aws.amazon.com/ec2/instance-types/p3/). For complete list of hyperparameters, please refer to the paper appendix.
+'env' can be humanoid-dir, ant-dir, cheetah-vel, cheetah-dir, ant-goal, and walker-rand-params. The code works on GPU and CPU machine. For the experiments in this paper, we used [p3.2xlarge](https://aws.amazon.com/ec2/instance-types/p3/). For complete list of hyperparameters, please refer to the paper appendix.
 
 
 In order to run this code, you will need to install Pytorch and MuJoCo. If you face any problem, please follow [PEARL](https://github.com/katerakelly/oyster/) steps to install.  
