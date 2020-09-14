@@ -29,7 +29,7 @@ In order to run code with a new environment, you will need to first define an en
 
 ## Acknowledgement
 - **rand_param_envs** and **rlkit** are completely based/copied on/from following repositories:
-[rand_param_envs](https://github.com/dennisl88/rand_param_envs/tree/4d1529d61ca0d65ed4bd9207b108d4a4662a4da0)
+[rand_param_envs](https://github.com/dennisl88/rand_param_envs/tree/4d1529d61ca0d65ed4bd9207b108d4a4662a4da0) and
 [PEARL](https://github.com/katerakelly/oyster/). Thanks to their authors to make them available.
 We include them here to make it easier to run and work with this repository.
 
